@@ -1,4 +1,4 @@
-module github.com/zricethezav/gitleaks/v8
+module github.com/bill-rich/gitleaks/v8
 
 replace github.com/gitleaks/go-gitdiff => github.com/bill-rich/go-gitdiff v0.7.6-custom1
 
