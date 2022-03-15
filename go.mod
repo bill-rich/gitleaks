@@ -1,5 +1,7 @@
 module github.com/zricethezav/gitleaks/v8
 
+replace github.com/gitleaks/go-gitdiff => github.com/bill-rich/go-gitdiff v0.7.6-custom1
+
 go 1.17
 
 require (
